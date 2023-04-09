@@ -19,6 +19,7 @@ System.out.println("Hello World");
 
 [Link back to the top!](#cse110-lab-1)
 
+[Click for something cool](/images/lobsterdog.jpg)
 
 - One
 - Two
