@@ -13,7 +13,18 @@
 ```
 # This is a block of code
 System.out.println("Hello World");
-
 ```
 
 [Link to Basic Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[Link back to the top!](#cse110-lab-1)
+
+[Click for something cool](/images/lobsterdog.jpg)
+
+- One
+- Two
+- Three
+
+1. One
+2. Two
+3. Three
