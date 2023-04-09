@@ -1,4 +1,7 @@
 Click [Bottom](#bottom)
+
+***
+
 ![Image](https://i1.sndcdn.com/avatars-ENS7y0HL3HyW78Z9-ZFD2xg-t250x250.jpg)
 
 # CSE110 Lab 1 !
