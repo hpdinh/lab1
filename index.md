@@ -30,5 +30,3 @@ System.out.println("Hello World");
 <<<<<<< HEAD
 
 # Bottom
-=======
->>>>>>> fb1d5395b5328e84938e381a108cea237fe0ceb0
